@@ -1,0 +1,1 @@
+https://github.com/digitalis-io/ccc/blob/master/setup-config.sh

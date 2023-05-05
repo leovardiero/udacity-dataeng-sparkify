@@ -1,0 +1,4 @@
+cassandra
+pandas
+re
+numpy
