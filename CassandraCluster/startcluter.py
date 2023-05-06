@@ -83,7 +83,7 @@ def main():
     copy_tree(f'etc_cassandra_{version}_vanilla/', etc)
 
   startCompose()
-  time.sleep(15)
+  time.sleep(60)
 
   docker_client = docker.from_env()
   while True:
