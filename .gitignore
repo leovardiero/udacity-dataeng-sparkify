@@ -1,1 +1,3 @@
-etc_cassandra-3.11.8_vanilla/*
+CassandraCluster/etc_cassandra-3.11.8_vanilla/
+CassandraCluster/etc/
+CassandraCluster/data/
